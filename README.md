@@ -1,6 +1,6 @@
 # Better Firefox
 
-The default settings that every Firefox should use!
+The default settings that your Firefox deserves!
 
 ## About
 
@@ -15,3 +15,12 @@ customizations possible. Which includes:
 - do not close the Firefox window after you close the last tab
   - browser.tabs.closeWindowWithLastTab = false)
 
+## Different Profiles
+
+In addition to the clean basic profile, there are other branches based on the
+main baisc one, each one focused on a diferent focus / target.
+
+### Home Profile (branch [home](https://github.com/fczuardi/better_firefox/tree/home) )
+
+- Everything that comes with the basic profile plus…
+- the Evernote Clearly addon, to enable a "reader mode" on text web pages
