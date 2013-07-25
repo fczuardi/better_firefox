@@ -19,6 +19,8 @@ user_pref("browser.cache.disk.smart_size.first_run", false);
 user_pref("browser.cache.disk.smart_size.use_old_max", false);
 user_pref("browser.cache.disk.smart_size_cached_value", 358400);
 user_pref("browser.download.panel.firstSessionCompleted", true);
+user_pref("browser.gesture.swipe.left", "");
+user_pref("browser.gesture.swipe.right", "");
 user_pref("browser.migration.version", 14);
 user_pref("browser.newtabpage.storageVersion", 1);
 user_pref("browser.pagethumbnails.storage_version", 3);
